@@ -1,0 +1,7 @@
+Un dels processos que s'hauran d'aixecar de forma persiodica serà un procés de python que a partir de pandas, matlibplot, i opcionalment seaborn, generaran imatges de gràfiques per tal de generar un informe. 
+
+Els informes s'han de generar amb una intenció de negoci. És a dir, s'ha de justificar en el mateix informe que la informació que estem mostrant gràficament ens ajuda a prendre decisions de negoci. Per exemple, quan hi ha puntes de treball, per tal de canviar els torns dels treballadors i així poder cobrir la demanada de producció. O qualsevol altra idea que vulgueu justificar. 
+
+Les imatges s'han de generar i guardar en una carpeta on el servidor d'exprés hi tingui accés. D'aquesta manera des del M07 podem mostrar aquestes imatges en l'apartat d'informes. 
+
+Que entens per aquest enunciat? No el resolguis 
